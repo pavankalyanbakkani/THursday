@@ -10,6 +10,8 @@ pipeline {
             steps {
                 echo 'Pavan kalyan bakkani'
                 echo 'Bridger, Neeeeeeeeeeeeeeeey'
+                echo 'Bridger, Neeeeeeeeeeeeeeeey'
+                echo 'Bridger, Neeeeeeeeeeeeeeeey'
                
             }
         }
