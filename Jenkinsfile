@@ -22,6 +22,7 @@ pipeline {
                 echo 'Suncity'
                 echo 'Hyuderabad'
                 echo 'Sunciiimmmmmmmiiiiiiiiiiiiiiiiiiity'
+                sh 'exit 1'
             }
         }
     }
