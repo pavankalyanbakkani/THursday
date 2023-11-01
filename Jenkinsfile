@@ -12,7 +12,7 @@ pipeline {
                 echo 'Bridger, Neeeeeeeeeeeeeeeey'
                 echo 'Bridger, Neeebbbbbbeeeeeeeeeeeeey'
                 echo 'Bridger, Neeeeeeeeeeeeeeehhhhhhhhhhhhhhhhhey'
-                sh 'exit 1'
+               
                
             }
         }
@@ -22,7 +22,7 @@ pipeline {
                 echo 'Suncity'
                 echo 'Hyuderabad'
                 echo 'Sunciiimmmmmmmiiiiiiiiiiiiiiiiiiity'
-                sh 'exit 1'
+                
             }
         }
     }
